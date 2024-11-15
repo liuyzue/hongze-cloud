@@ -23,6 +23,7 @@
     <modules>
         <module>hongze-starter-dependencies</module>
         <module>hongze-starter-common</module>
+        <module>hongze-starter-database</module>
     </modules>
 
     <dependencyManagement>
